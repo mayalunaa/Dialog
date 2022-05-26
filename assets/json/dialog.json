@@ -1,0 +1,61 @@
+[
+	[
+		{
+			"speaker" : "homer",
+			"dialog" : "i wanna game on fortnite",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "no way homer you play fornite. insane.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "homer",
+			"dialog" : "yes haha *emotes*",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "homer",
+			"dialog" : "we do not need odyssey, online fortnite and vbucks"
+		},
+		{	
+			"speaker" : "homer",
+			"dialog" : "i will now systematically eradicate all of the remaining dialogue of this scene"
+		},
+		{	
+			"speaker" : "homer",
+			"dialog" : "*uses giga brain forged by fortnite BRs to delete all remaining dialogue*"
+		}
+	],
+	[
+		{
+			"speaker" : "neptune",
+			"dialog" : "...",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "..."
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "...",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "..."
+		},
+		{	
+			"speaker" : "jove",
+			"dialog" : "...",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "...fortnite",
+			"newSpeaker" : "true"
+		}
+	]
+]

@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"speaker" : "macduff",
+			"dialog" : "What had he done, to make him fly the land?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "ross",
+			"dialog" : "You must have patience, madam.",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "macduff",
+			"dialog" : "He had none:",
+			"newSpeaker": "true"
+		},
+		{	
+			"speaker" : "macduff",
+			"dialog" : "His flight was madness: when our actions do not,"
+		},
+		{	
+			"speaker" : "macduff",
+			"dialog" : "Our fears do make us traitors."
+		},
+		{	
+			"speaker" : "ross",
+			"dialog" : "You know not",
+			"newSpeaker": "true"
+		},
+		{
+			"speaker": "ross",
+			"dialog": "Whether it was his wisdom or his fear."
+		}
+	]
+]
